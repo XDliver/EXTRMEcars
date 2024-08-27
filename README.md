@@ -1,2 +1,2 @@
 # EXTRMEcars
-This is a car game made with unity
+This game is made with unity engine. this project is also made with other open source add-ons.
